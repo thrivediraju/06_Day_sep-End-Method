@@ -2,13 +2,13 @@
 # print('a','b')
 # print('a'+''+'b')
 # print('a'+' '+'b')
-# print('a'+'   '+'b')
+# print('a'+'  '+'b')
 # print('a'+'-'+'b')
 
 # print(''.isspace())
 # print('n'.isspace())
 # print(' '.isspace())
-# print('    '.isspace())
+# print('   '.isspace())
 
 # print(''+'hi')
 # print(' '+'hi')
