@@ -4,4 +4,4 @@ screenshot practice
 
 Video Link: https://bit.ly/3w3zBGw
 
-hffgdyui
+hffgdy
